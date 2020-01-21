@@ -2,7 +2,7 @@
 ### Bootstrap 4: Criando uma landing page responsiva Bootstrap 4: Criando uma landing page responsiva
 # AULA 01
 ### Instalando o bootstrap e implementando a navbar
-Nesta primeira aula, aprendemos a:
+##### Nesta primeira aula, aprendemos a:
 
 - Como instalar o Bootstrap;
 - Como o Bootstrap funciona utilizando classes para aplicar estilos pré-definidos;
@@ -13,6 +13,7 @@ Nesta primeira aula, aprendemos a:
 
 # AULA 02 
 ### Adicionando o carrossel e resolvendo bugs
+##### Nesta segunda aula, aprendemos a:
 - Ler mais um pouco da documentação do Bootstrap e usar seu componente carousel;
 - Ler o HTML e ir descobrindo o que fazem algumas partes do código do Bootstrap;
 - Utilizar o CSS para complementar nosso trabalho quando o Bootstrap não cobre 100%;
