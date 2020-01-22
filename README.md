@@ -37,8 +37,4 @@
 - Personalizar o componente quando necessário usando nossas próprias classes;
 - Adotar algumas tags semânticas em nosso HTML.
 
-### Títulos, textos e ferramentas de espaçamento
-##### Nesta terceira aula, aprendemos a:
-- Formatar elementos de texto com o Bootstrap;
-- Utilizar o Bootstrap para controlar larguras e alturas de margin e padding.
 
