@@ -21,10 +21,7 @@
 -Para nossas fontes, utilizamos a biblioteca de fontes gratuitas do Google Fonts, porém você também pode utilizar outras, como a da Adobe e do site Font Squirrel. O Font Squirrel também permite que você crie suas próprias web fonts! Porém, sempre antes de utilizar qualquer fonte em seus projetos, leia com atenção as licenças de uso, pois algumas fontes e serviços de fontes podem ter restrições de uso, por exemplo, para uso comercial.
 
 # AULA 03 
-<<<<<<< HEAD
-=======
 
->>>>>>> ad4fe21cea43e37468d47d667fe44a92871ba8f4
 ### Adicionando o carrossel e resolvendo bugs
 ##### Nesta terceira aula, aprendemos a:
 - Ler mais um pouco da documentação do Bootstrap e usar seu componente carousel;
@@ -47,11 +44,18 @@
 
 # AULA 05
 ### Adicionando o carrossel e resolvendo bugs
-##### Nesta cinco aula, aprendemos a:
+##### Nesta quianta aula, aprendemos a:
 - Trabalhar mais com o componente card e personalizar as informações;;
 - Fazer mais alguns ajustes de imagens;
 - Utilizar algumas ferramentas do Bootstrap Grid.
-=======
 
->>>>>>> ad4fe21cea43e37468d47d667fe44a92871ba8f4
+# AULA 06 - FIM 
+### Modais e últimos ajustes
+##### Nesta sexta aula, aprendemos a:
+-Identificar alguns tipos de modais na documentação do Bootstrap;
+-Inserir modais em nosso código;
+-Estilizar e adaptar os modais ao nosso projeto;
+-Identificar onde podemos utilizar mais classes semânticas e fazer substituições;
+-Fazer pequenos ajustes de leiaute com o CSS;
+-Implementar um rodapé com elementos de texto simples.
 
